@@ -9,3 +9,5 @@
 - Georg Großunternehmer
 - Matze Mittelstand
 - Karl Kleinunternehmer
+- Frederik Faul
+- Simone Sauber
