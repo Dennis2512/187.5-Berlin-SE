@@ -1,4 +1,4 @@
-| Nutzer | Funktion | Wert |
+| Nutzer | Funktion (Was?) | Wert (Warum?) |
 |:------:|:--------:|:----:|
 | Ulrike Umweltbewusst | | |
 | Uschi Umweltextremist | | |
