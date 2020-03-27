@@ -1,6 +1,6 @@
 | Nutzer | Funktion (Was?) | Wert (Warum?) |
 |:------:|:--------:|:----:|
-| Ulrike Umweltbewusst | Will ihren persönlichen Energieverbrauch verringern | Weil ihr die Umwelt am Herzen liegt und jeder Beitrag zählt. |
+| Ulrike Umweltbewusst | Will ihren persönlichen Energieverbrauch verringern. | Weil ihr die Umwelt am Herzen liegt und jeder Beitrag zählt. |
 | Uschi Umweltextremist | Will den ökologischen Fußabdruck verringern, indem Sie die großräumige Nutzung unserer Anwendung durchsetzt. | Weil die Menschheit ihren eigenen Lebensraum zerstört und irgendjemand sie retten muss. |
 | Tech Nick | Hat Spaß an der Technik und will trotzdem Umweltbewusst leben. | Weil ihm die Umwelt wichtig ist und er so seine Interessen vereinen kann. |
 | Hannah Hausfrau | Will Geld bei der Stromrechnung einsparen. | Weil Sie als Hausfrau mit Kindern nicht viel Geld für hohe Nebenkosten übrig hat. |
@@ -15,7 +15,7 @@
 | Melani Modern | Will ein neues Leben in der Wüste mit modernster Technik.| Weil sie moderne Projekte liebt.  |
 | Sören Smart | Will ein intelligentes Haus. | Weil er Erleichterung durch komplexen Algorithmen liebt. |
 | Simon SubventionenNutzer |Will eine durch den Staat finanziell geförderte Wohnmöglichkeit. | Weil er auf Subventionen steht. |
-| Sander Selbststndig | Möchte, dass das Produkt jederzeit funktionsfähig ist und genug Strom erzeugt. | Da er nicht von einem Energieprovider anhängig sein will. |
+| Sander Selbständig | Möchte, dass das Produkt jederzeit funktionsfähig ist und genug Strom erzeugt. | Da er nicht von einem Energieprovider anhängig sein will. |
 | Georg Großunternehmer | Möchte so viel Strom wie möglich selbst produzieren. | Da er seine Produktionskosten verringern möchte.|
 | Karl Kleinunternehmer | Möchte seinen Strom günstiger selbst produzieren. | Da die Einnahmen sonst die Kosten nicht decken.  |
 | Frederik Faul | Möchte, dass sich die Anlage selbst sauber hält. | Da er Faul ist. |
