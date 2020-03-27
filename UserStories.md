@@ -1,6 +1,6 @@
 | Nutzer | Funktion (Was?) | Wert (Warum?) |
 |:------:|:--------:|:----:|
-| Ulrike Umweltbewusst | | |
+| Ulrike Umweltbewusst | Will ihren persönlichen Energieverbrauch verringern | Weil ihr die Umwelt am Herzen liegt und jeder Beitrag zählt. |
 | Uschi Umweltextremist | | |
 | Tech Nick | | |
 | Hannah Hausfrau | | |
