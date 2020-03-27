@@ -5,3 +5,7 @@
 - Melani Modern
 - Sören Smart
 - Simon SubventionenNutzer
+- Sander Selbststndig
+- Georg Großunternehmer
+- Matze Mittelstand
+- Karl Kleinunternehmer
