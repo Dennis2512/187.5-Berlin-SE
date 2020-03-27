@@ -1,3 +1,7 @@
 - Ulrike Unmweltbewust
 - Tech Nick
 - Uschi Umweltextremist
+- Sebastian Sparfuchs
+- Melani Modern
+- Sören Smart
+- 
