@@ -10,11 +10,11 @@
 | Heinz Hitze | Will vor extremer Hitze gewarnt werden. | Weil er sich auf Temperaturumstellungen vorbereiten muss. |
 | Karl Kälte | Will vor extremer Kälte gewarnt werden. | Weil er sich auf Temperaturumstellungen vorbereiten muss. |
 | Ilse Industrie | Will in ihrem Industrieunternehmen ein SmartHome installieren. | Weil es bei der Arbeit unterstützen kann. |
-| Enko Energieunternehmer | | |
-| Sebastian Sparfuchs | | |
-| Melani Modern | | |
-| Sören Smart | | |
-| Simon SubventionenNutzer | | |
+| Enko Energieunternehmer | Will stabilen sowie preiswerten Strom für neue Wohnprojekte ermöglichen und daran verdienen. | Weil er Unternehmer ist. |
+| Sebastian Sparfuchs | Will eine günstige Möglichkeit für eine Bleibe in der Wüste mit aktuellster Technik. | Weil er ein kleines Portemonaie hat. |
+| Melani Modern | Will ein neues Leben in der Wüste mit modernster Technik.| Weil sie moderne Projekte liebt.  |
+| Sören Smart | Will ein intelligentes Haus. | Weil er Erleichterung durch komplexen Algorithmen liebt. |
+| Simon SubventionenNutzer |Will eine durch den Staat finanziell geförderte Wohnmöglichkeit. | Weil er auf Subventionen steht. |
 | Sander Selbststndig | | |
 | Georg Großunternehmer | | |
 | Matze Mittelstand | | |
