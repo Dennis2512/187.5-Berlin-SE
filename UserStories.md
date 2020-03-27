@@ -23,5 +23,5 @@
 | Simone Sauber | | |
 | Tim Technischunbegabt | | |
 | Hanz Handwerker | | |
-|  | | |
-| | | |
+| Ereik Elektriker | | |
+| Benno Berater | | |
