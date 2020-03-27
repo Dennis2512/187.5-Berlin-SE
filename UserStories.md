@@ -21,3 +21,7 @@
 | Karl Kleinunternehmer | | |
 | Frederik Faul | | |
 | Simone Sauber | | |
+| Tim Technischunbegabt | | |
+| Hanz Handwerker | | |
+|  | | |
+| | | |
